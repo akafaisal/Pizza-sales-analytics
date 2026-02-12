@@ -1,6 +1,3 @@
-Here’s a **clean GitHub description** you can use for your **Pizza Sales Analytics** project (based on the video and similar portfolio projects).
-
----
 
 # 🍕 Pizza Sales Analytics – SQL & Power BI
 
