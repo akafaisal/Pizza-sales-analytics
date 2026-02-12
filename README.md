@@ -49,5 +49,6 @@ The goal is to uncover meaningful insights into **revenue trends, customer order
 * Actionable insights to **improve revenue, product strategy, and customer satisfaction**. 
 
 ---
+<img width="880" height="602" alt="image" src="https://github.com/user-attachments/assets/e48af4d3-c8a5-48d3-81e0-15b561ecf30b" />
 
 
