@@ -1,5 +1,7 @@
 
 # 🍕 Pizza Sales Analytics – SQL & Power BI
+<img width="880" height="602" alt="image" src="https://github.com/user-attachments/assets/e48af4d3-c8a5-48d3-81e0-15b561ecf30b" />
+<img width="867" height="617" alt="image" src="https://github.com/user-attachments/assets/33150ada-e1e3-403b-aab1-294db1e7daf4" />
 
 This project presents an end-to-end **pizza sales data analysis** using **SQL** for data extraction and transformation and **Power BI** for interactive dashboard visualization.
 The goal is to uncover meaningful insights into **revenue trends, customer ordering behavior, product performance, and sales distribution** to support better business decision-making.
@@ -49,6 +51,6 @@ The goal is to uncover meaningful insights into **revenue trends, customer order
 * Actionable insights to **improve revenue, product strategy, and customer satisfaction**. 
 
 ---
-<img width="880" height="602" alt="image" src="https://github.com/user-attachments/assets/e48af4d3-c8a5-48d3-81e0-15b561ecf30b" />
+
 
 
