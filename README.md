@@ -17,7 +17,7 @@ The goal is to uncover meaningful insights into **revenue trends, customer order
 
 ## 🛠️ Tools & Technologies
 
-* **SQL (MySQL / SQL Server / PostgreSQL)** – data cleaning, aggregation, KPI calculation.
+* **SQL (MySQL)** – data cleaning, aggregation, KPI calculation.
 * **Power BI** – interactive dashboards, charts, and business insights visualization.
 * **CSV Dataset (Kaggle)** – one year of detailed pizza sales data including orders, quantities, pricing, and categories. 
 
